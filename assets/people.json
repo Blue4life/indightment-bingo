@@ -1,0 +1,104 @@
+{
+  "people": [
+    {
+        "name": "Michael Cohen",
+        "isIndighted": false
+    },
+    {
+        "name": "Roger Stone",
+        "isIndighted": false
+    },
+    {
+        "name": "Jeff Sessions",
+        "isIndighted": false
+    },
+    {
+        "name": "J.D. Gordon",
+        "isIndighted": false
+    },
+    {
+        "name": "Alexander Nix",
+        "isIndighted": false
+    },
+    {
+        "name": "Michael Flynn Jr.",
+        "isIndighted": false
+    },
+    {
+        "name": "Paul Manafort",
+        "isIndighted": true
+    },
+    {
+        "name": "Dana Rohrabacher",
+        "isIndighted": false
+    },
+    {
+        "name": "Carter Page",
+        "isIndighted": false
+    },
+    {
+        "name": "Michael Caputo",
+        "isIndighted": false
+    },
+    {
+        "name": "Rex Tillerson",
+        "isIndighted": false
+    },
+    {
+        "name": "Anthony Scaramucci",
+        "isIndighted": false
+    },
+    {
+        "name": "STAR",
+        "isIndighted": true
+    },
+    {
+        "name": "Donald Trump",
+        "isIndighted": false
+    },
+    {
+        "name": "Felix Sater",
+        "isIndighted": false
+    },
+    {
+        "name": "Rick Gates",
+        "isIndighted": false
+    },
+    {
+        "name": "Michael Flynn",
+        "isIndighted": false
+    },
+    {
+        "name": "George Papadopoulos",
+        "isIndighted": true
+    },
+    {
+        "name": "Jared Kushner",
+        "isIndighted": false
+    },
+    {
+        "name": "Erik Prince",
+        "isIndighted": false
+    },
+    {
+        "name": "Rinat Akhmetshin",
+        "isIndighted": false
+    },
+    {
+        "name": "Donald Trump Jr.",
+        "isIndighted": false
+    },
+    {
+        "name": "Ivanka Trump",
+        "isIndighted": false
+    },
+    {
+        "name": "Ike Kaveladze",
+        "isIndighted": false
+    },
+    {
+        "name": "Sergei Millian",
+        "isIndighted": false
+    }
+  ]
+}

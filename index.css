@@ -1,0 +1,53 @@
+header {
+  top: 0;
+  padding-top: 10px;
+  height: 60px;
+}
+
+.title {
+  display: block;
+  text-align: center;
+}
+
+#board-container {
+  display: block;
+  margin: 0 auto;
+}
+
+#board {
+  display: block;
+  box-sizing: border-box;
+  border-radius: 6px;
+  margin-top: 40px;
+  position: relative;
+  height: 560px;
+  width: 590px;
+}
+
+#board-img {
+  margin: 0 auto;
+  display: block;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#grid {
+  position: absolute;
+  display: block;
+  top: 0;
+  bottom: 0;
+}
+
+#grid .row {
+  height: 20%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.circle {
+  margin: 0 auto;
+  margin-top: 11px;
+  height: 73%;
+  width: 100%;
+  opacity: 0.5;
+}
